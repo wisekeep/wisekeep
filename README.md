@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisekeep&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/018bc148-2ce8-4eef-abd1-e23ec6ca39a7.svg)](https://wakatime.com/@018bc148-2ce8-4eef-abd1-e23ec6ca39a7)

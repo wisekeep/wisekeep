@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisekeep&layout=pie&theme=dark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/018bc148-2ce8-4eef-abd1-e23ec6ca39a7.svg)](https://wakatime.com/@018bc148-2ce8-4eef-abd1-e23ec6ca39a7)
-
-
+<figure><embed src="https://wakatime.com/share/@wisekeep/4e1b3391-0be9-4466-bd17-cbb1370ad850.svg"></embed></figure>

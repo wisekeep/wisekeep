@@ -21,12 +21,10 @@ Special thanks to the programmers who served as my inspiration, where I did rese
 
 [@RamuneNeptune](https://github.com/RamuneNeptune)
 [PrimeSonic](https://github.com/PrimeSonic)
+[mroshaw](https://github.com/mroshaw)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wisekeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisekeep&show_icons=true&theme=dark&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisekeep&layout=pie&theme=dark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-
-<figure><embed src="https://wakatime.com/share/@wisekeep/823bbf36-99c6-45bc-bec3-bb1ef876dc9e.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@wisekeep/c3777a23-ad1f-4270-bc2a-86d0ab51ec7b.svg"></embed></figure>

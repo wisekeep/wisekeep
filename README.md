@@ -19,8 +19,8 @@ I hope you like the MODs, if you need help or need to report an error, I'm at yo
 
 Special thanks to the programmers who served as my inspiration, where I did research on MODs:
 
-@RamuneNeptune
-@PrimeSonic
+[@RamuneNeptune](https://github.com/RamuneNeptune)
+[PrimeSonic](https://github.com/PrimeSonic)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wisekeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

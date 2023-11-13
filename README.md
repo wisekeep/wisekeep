@@ -7,8 +7,9 @@ Espero que gostem dos MODs, se precisarem de ajuda ou precisarem reportar algum 
 
 Especial agradescimento aos programadores que me serviram de expiração, onde fiz pesquisa sobre os MODs:
 
-RamuneNeptune
-PrimeSonic
+[@RamuneNeptune](https://github.com/RamuneNeptune)
+[PrimeSonic](https://github.com/PrimeSonic)
+[mroshaw](https://github.com/mroshaw)
 
 ### Hello!👋
 I'm Marcelo, nickname (Yukashy) from the times when I played World of Warcraft.
@@ -27,4 +28,4 @@ Special thanks to the programmers who served as my inspiration, where I did rese
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisekeep&show_icons=true&theme=dark&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<figure><embed src="https://wakatime.com/share/@wisekeep/c3777a23-ad1f-4270-bc2a-86d0ab51ec7b.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@wisekeep/f6eeb8ee-a09a-41b6-804f-954cd7be60e5.svg"></embed></figure>

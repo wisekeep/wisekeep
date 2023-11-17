@@ -5,11 +5,6 @@ Tenho me didicado a aprender C#, pois já conheço linguagens como BASIC,COBOL,P
 Nos últimos 2 anos tenho sofrido com sequelas de um AVC e desenvolvi TDH, que eu tenho tratado me dedicando a programar, juntamente com uma terapia leve.
 Espero que gostem dos MODs, se precisarem de ajuda ou precisarem reportar algum erro, estou a disposição.
 
-Especial agradescimento aos programadores que me serviram de expiração, onde fiz pesquisa sobre os MODs:
-
-[@RamuneNeptune](https://github.com/RamuneNeptune)
-[PrimeSonic](https://github.com/PrimeSonic)
-[mroshaw](https://github.com/mroshaw)
 
 ### Hello!👋
 I'm Marcelo, nickname (Yukashy) from the times when I played World of Warcraft.
@@ -18,14 +13,5 @@ I have dedicated myself to learning C#, as I already know languages such as BASI
 Over the last 2 years I have suffered from the after-effects of a stroke and developed TDH, which I have treated by dedicating myself to programming, along with light therapy.
 I hope you like the MODs, if you need help or need to report an error, I'm at your disposal.
 
-Special thanks to the programmers who served as my inspiration, where I did research on MODs:
-
-[@RamuneNeptune](https://github.com/RamuneNeptune)
-[PrimeSonic](https://github.com/PrimeSonic)
-[mroshaw](https://github.com/mroshaw)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wisekeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisekeep&show_icons=true&theme=dark&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-<figure><embed src="https://wakatime.com/share/@wisekeep/f6eeb8ee-a09a-41b6-804f-954cd7be60e5.svg"></embed></figure>

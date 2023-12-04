@@ -5,7 +5,6 @@ Tenho me didicado a aprender C#, pois já conheço linguagens como BASIC,COBOL,P
 Nos últimos 2 anos tenho sofrido com sequelas de um AVC e desenvolvi TDH, que eu tenho tratado me dedicando a programar, juntamente com uma terapia leve.
 Espero que gostem dos MODs, se precisarem de ajuda ou precisarem reportar algum erro, estou a disposição.
 
-
 ### Hello!👋
 I'm Marcelo, nickname (Yukashy) from the times when I played World of Warcraft.
 I'm 52 years old, I'm a Software Engineer.

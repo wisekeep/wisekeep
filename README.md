@@ -14,3 +14,7 @@ I hope you like the MODs, if you need help or need to report an error, I'm at yo
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wisekeep&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div style="text-align:center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@wisekeep/9a846993-fde1-4369-a0bd-2d55edd1587d.png" style="text-align:center" /></a>
+</div>
